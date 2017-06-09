@@ -1,0 +1,55 @@
+﻿WP10 x=12-3 x=9
+WP14 x=12-7 x=5
+WP16 x=11-6 x=5
+WP22 x=6+9 x=15
+WP25 x=9+4 x=13
+WP33 x=5+8 x=13
+WP40 x=2+6 x=8
+WP46 Invalid addition type
+WP50 x=12-2 x=10
+WP56 x=9-2 x=7
+WP68 x=6-4 x=2
+WP70 x=10-4 x=6
+WP74 x=14-9 x=5
+WP76 x=91-54 x=37
+WP82 x=15+17 x=32
+WP83 x=5-2 x=3
+WP90 x=10-5 x=5
+WP93 x=10+5 x=15
+WP102 x=9+19 x=28
+WP106 x=8-2 x=6
+WP113 Invalid subtraction2 Type
+WP116 x=8-4 x=4
+WP121 x=3-2 x=1
+WP125 x=84-81 x=3
+WP129 x=17-5 x=12
+WP149 x=10-3 x=7
+WP153 x=12+24 x=36
+WP165 x=19+22 x=41
+WP176 x=38-2 x=36
+WP180 x=10+10 x=20
+WP191 x=4-2 x=2
+WP195 x=15+12 x=27
+WP202 x=16+8 x=24
+WP204 x=8+4 x=12
+WP206 x=12-8 x=4
+WP211 x=8-2 x=6
+WP213 x=6+5 x=11
+WP219 Invalid subtraction1 type
+WP228 Invalid subtraction1 type
+WP237 x=11-7 x=4
+WP238 x=27+9 x=36
+WP239 x=42-5 x=37
+WP242 x=15+8 x=23
+WP247 x=26+3 x=29
+WP249 Invalid subtraction1 type
+WP252 x=10-2 x=8
+WP269 x=5+7 x=12
+WP283 Invalid subtraction1 type
+WP288 Invalid subtraction1 type
+WP299 Invalid subtraction1 type
+WP305 x=25+3 x=28
+WP307 Invalid addition type
+WP308 x=7-2 x=5
+WP310 Invalid subtraction1 type
+WP313 Invalid subtraction1 type
